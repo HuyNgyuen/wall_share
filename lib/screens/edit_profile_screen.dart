@@ -53,7 +53,8 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
                 const SizedBox(height: 20),
                 UserImageAvatar(
                   radius: 50,
-                  imageUrl: authProvider.userModel!.profilePic,
+                  // imageUrl: authProvider.userModel!.profilePic,
+                  imageUrl: authProvider.userModel?.profilePic ?? '',
                   isViewOnly: false,
                   onPressed: () {},
                 ),
