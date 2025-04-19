@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "308926208828",
+    "project_id": "wall-share-e9109",
+    "storage_bucket": "wall-share-e9109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308926208828:android:6281a1d65444aa25039c39",
+        "android_client_info": {
+          "package_name": "com.example.wall_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308926208828-dq9o18lkp894nva70mvt44cdv4fcat8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wall_share",
+            "certificate_hash": "012a1c5de1947a1bd90ca90a142f7c0cf1831feb"
+          }
+        },
+        {
+          "client_id": "308926208828-6mj9k27qb8tfstg1a9jhftvdctft434l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkWYjNd3SohD9TqhIp0vcvedTrIFZb5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308926208828-6mj9k27qb8tfstg1a9jhftvdctft434l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308926208828-3rplp88t2cgugkfgo75tdbdff2og0717.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallShare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308926208828-3rplp88t2cgugkfgo75tdbdff2og0717.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308926208828-3rplp88t2cgugkfgo75tdbdff2og0717</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOIiwapPwc_TIkMUwj4QXqsbd9D0wWGlE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308926208828</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wallShare</string>
+	<key>PROJECT_ID</key>
+	<string>wall-share-e9109</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wall-share-e9109.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308926208828:ios:aeb496904944044d039c39</string>
+</dict>
+</plist>
