@@ -51,7 +51,7 @@ class _CommentInputFieldState extends State<CommentInputField> {
         comment: _commentController.text,
         uid: authProvider.userModel!.uid,
         username: authProvider.userModel!.name,
-        profilePic: authProvider.userModel!.profileId,
+        profilePic: authProvider.userModel!.profilePic,
       );
 
       setState(() {
